@@ -1,13 +1,18 @@
 {
   "name": "udemyreactstepup-css",
   "version": "1.0.0",
-  "description": "",
+  "description": "Reactに入門した人のためのステップアップコース完全版_CSS",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
+    "@emotion/react": "11.9.0",
+    "@emotion/styled": "11.8.1",
+    "node-sass": "7.0.1",
     "react": "18.0.0",
     "react-dom": "18.0.0",
-    "react-scripts": "4.0.0"
+    "react-scripts": "4.0.0",
+    "styled-components": "5.3.5",
+    "styled-jsx": "5.0.2"
   },
   "devDependencies": {
     "@babel/runtime": "7.13.8",
